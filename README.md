@@ -69,7 +69,7 @@ This project has 2 phase:
 ![App Screenshot](https://github.com/Pratik-k-sahoo/BankManagementSystem/blob/master/ScreenShots/Screenshot_20230219_105208.png)
 
 
-## 🚀 About Me
+## 🚀 About Me[![linkedin](https://github.com/Pratik-k-sahoo/Pratik-k-sahoo/blob/main/%E2%80%94Pngtree%E2%80%94vector%20portfolio%20icon_4171186.png)](https://pratik-k-sahoo.github.io/Pratik.KS.github.io/)""
 I'm a First year Student at ITER learning more to improve me.
 
 
