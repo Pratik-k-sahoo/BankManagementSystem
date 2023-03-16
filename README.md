@@ -69,12 +69,12 @@ This project has 2 phase:
 ![App Screenshot](https://github.com/Pratik-k-sahoo/BankManagementSystem/blob/master/ScreenShots/Screenshot_20230219_105208.png)
 
 
-## 🚀 About Me
+## 🚀 About Me[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-sahoo-325982121)
 I'm a First year Student at ITER learning more to improve me.
 
 
 ## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-sahoo-325982121)
+[![linkedin](https://github.com/Pratik-k-sahoo/Pratik-k-sahoo/blob/main/portfolio.png)](https://www.linkedin.com/in/pratik-sahoo-325982121)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Pratiksahoo2002?t=Ncuxl2EpMZIhgY57CbFMow&s=35)
 
