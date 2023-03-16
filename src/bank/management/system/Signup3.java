@@ -249,11 +249,14 @@ public class Signup3 extends JFrame implements ActionListener {
 					Conn c=new Conn();
 					String query1="insert into signup3 values('" + form + "', '" + sAccountType + "', '" + sCardNum + "', '" + sPinNum + "', '" + sServiceRequired + "')";
 					String query2="insert into login values('" + form + "', '" + sCardNum + "', '" + sPinNum + "')";
+					
 					c.s.executeUpdate(query1);
 					c.s.executeUpdate(query2);
+					
 					JOptionPane.showMessageDialog(null,"Card number:- " + sCardNum + "\nPIN Number:- " + sPinNum);
 					
-					
+					setVisible(false);
+					new Deposit(sPinNum).setVisible(true);
 				}
 			}catch(Exception e) {
 				System.out.println(e);

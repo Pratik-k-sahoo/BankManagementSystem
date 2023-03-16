@@ -1,9 +1,8 @@
 package bank.management.system;
-
 import java.awt.*;
 import java.awt.event.*;
-
 import javax.swing.*;
+import java.sql.*;
 
 public class Login extends JFrame implements ActionListener{
 	
@@ -17,12 +16,12 @@ public class Login extends JFrame implements ActionListener{
 		
 		setLayout(null);
 		
-		ImageIcon i1=new ImageIcon(ClassLoader.getSystemResource("icons/logo.jpg"));
-		Image i2=i1.getImage().getScaledInstance(100, 100, Image.SCALE_DEFAULT);
-		i1=new ImageIcon(i2);
-		JLabel label=new JLabel(i1);
-		label.setBounds(70, 10, 100, 100);
-		add(label);
+		 ImageIcon i1=new ImageIcon(ClassLoader.getSystemResource("icons/logo.jpg"));
+		 Image i2=i1.getImage().getScaledInstance(100, 100, Image.SCALE_DEFAULT);
+		 i1=new ImageIcon(i2);
+		 JLabel label=new JLabel(i1);
+		 label.setBounds(70, 10, 100, 100);
+		 add(label);
 		
 		JLabel HEADING=new JLabel("Welcome To AAPKA APNA BANK");
 		HEADING.setFont(new Font("Osward", Font.BOLD, 30));
@@ -87,16 +86,31 @@ public class Login extends JFrame implements ActionListener{
 			pinTextField.setText("");
 		}
 		else if(ae.getSource() == signin) {
-			
+			Conn conn=new Conn();
+			String sCardNum=cardTextField.getText();
+			String sPinNum=pinTextField.getText();
+			String query="select * from login where card_num = '" + sCardNum + "' and pin_num = '" + sPinNum + "'";
+			try {
+				ResultSet rs=conn.s.executeQuery(query);
+				if(rs.next()) {
+					setVisible(false);
+					new Transaction(sPinNum).setVisible(true);
+				}
+				else {
+					JOptionPane.showMessageDialog(null, "Incorrect Card Number or Pin.");
+				}
+			}catch(Exception e) {
+				System.out.println(e);
+			}
 		}
 		else if(ae.getSource() == signup) {
 			setVisible(false);
-			new Signup1().setVisible(true); 
+			 new Signup1().setVisible(true); 
 		}
 	}
 	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		new Login();
 	}
 
