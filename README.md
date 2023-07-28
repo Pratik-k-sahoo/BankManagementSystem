@@ -72,12 +72,24 @@ This project has 2 phase:
 ![App Screenshot](https://github.com/Pratik-k-sahoo/BankManagementSystem/blob/master/ScreenShots/Screenshot_20230219_105208.png)
 
 
-## 🚀 About Me[![linkedin](https://github.com/Pratik-k-sahoo/Pratik-k-sahoo/blob/main/%E2%80%94Pngtree%E2%80%94vector%20portfolio%20icon_4171186.png)](https://pratik-k-sahoo.github.io/Pratik.KS.github.io/)""
-I'm a First year Student at ITER learning more to improve me.
+## 🚀 About Me
+
+Hello! I'm [PRATIK KUMAR SAHOO], a passionate developer with a keen interest in [SOFTWARE DEVELOPEMENT AND DATA SCIENCE]. I love building software and exploring new technologies. I have built this in my First year at ITER and learning more to improve me.<br><br><br>&nbsp;
+<a href="https://pratik-k-sahoo.github.io/Pratik.KS.github.io/">
+<img src="https://github.com/Pratik-k-sahoo/Pratik-k-sahoo/blob/main/%E2%80%94Pngtree%E2%80%94vector%20portfolio%20icon_4171186.png" alt="Portfolio" width="50px" >
+</a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sipun-pratik9104/">
+<img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="90px">
+</a>
+
+<a href="https://pratik-k-sahoo.github.io/Pratik.KS.github.io/">Portfolio</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sipun-pratik9104/">LinkedIn</a>
+
+Feel free to check out my [Portfolio](https://your-portfolio-link) to see some of my projects and explore my work. If you'd like to connect, you can find me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile).
 
 
 ## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-sahoo-325982121)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sipun-pratik9104/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Pratiksahoo2002?t=Ncuxl2EpMZIhgY57CbFMow&s=35)
 
