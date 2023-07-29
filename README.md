@@ -1,4 +1,7 @@
-# ON PROCESS NOT FULLY COMPLETE
+# ON PROCESS NOT FULLY COMPLETED
+##OPEN SOURCE(anyone is free to contribut to this application)
+
+you can add anything to this to improve this
 # BANK MANAGEMENT SYSTEM
 
 
