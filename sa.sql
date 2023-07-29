@@ -26,5 +26,5 @@ create table login(formNo varchar(20), card_num varchar(20), pin_num varchar(20)
 
 select * from signup3;
 
-
+create table bank(pin_num varchar(10), date varchar(50), type varchar(20), amount varchar(20));
 select * from login;
